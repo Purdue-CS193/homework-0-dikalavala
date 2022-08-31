@@ -1,4 +1,5 @@
 # Diya Kalavala's First CS193 Homework
+things I like about CS 193 so far:
 - the professors are cool
 - the warmup is fun
 - the chairs are very comfortable
